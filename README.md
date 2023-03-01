@@ -1,1 +1,1 @@
-# Gevorg-Avetisyan-Portfolio
+# gevorg-avetisyan-portfolio
