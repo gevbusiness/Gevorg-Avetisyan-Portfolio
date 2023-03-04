@@ -181,3 +181,14 @@ a:hover {
  display: flex;
  justify-content: center;
 }
+
+
+Implementation of div image
+
+.surf {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("");
+    background-size: cover;
+    background-position: center;
