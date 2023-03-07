@@ -54,7 +54,7 @@ a {
 .me {
     height: 300px;
     width: 100%;
-    background-image: url(/assets/images/pic00.avif);
+    background-image: url(https://raw.githubusercontent.com/gevbusiness/Gevorg-Avetisyan-Portfolio/main/assets/images/pic0.avif);
 }
 
 h2 {
@@ -127,7 +127,7 @@ h3 {
 .horiseon-image {
     height: 100%;
     width: 100%;
-    background-image: url(/assets/images/pic2.jpeg);
+    background-image: url(https://github.com/gevbusiness/Gevorg-Avetisyan-Portfolio/blob/main/assets/images/pic1.jpeg);
     opacity: 0.5;
 }
 
