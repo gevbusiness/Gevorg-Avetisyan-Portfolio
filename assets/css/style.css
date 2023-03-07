@@ -54,7 +54,7 @@ a {
 .me {
     height: 300px;
     width: 100%;
-    background-image: url(https://raw.githubusercontent.com/gevbusiness/Gevorg-Avetisyan-Portfolio/main/assets/images/pic0.avif);
+    background-image: url(../images/pic00.avif);
 }
 
 h2 {
@@ -127,7 +127,7 @@ h3 {
 .horiseon-image {
     height: 100%;
     width: 100%;
-    background-image: url(/assets/images/pic2.jpeg);
+    background-image: url(../images/pic1.jpeg);
     opacity: 0.5;
 }
 
@@ -138,7 +138,7 @@ h3 {
 .led-image {
     height: 100%;
     width: 100%;
-    background-image: url(/assets/images/pic3.jpeg);
+    background-image: url(../images/pic2.jpeg);
     opacity: 0.5;
 }
 
@@ -149,7 +149,7 @@ h3 {
 .calc-image {
     height: 100%;
     width: 100%;
-    background-image: url(/assets/images/pic4.jpeg);
+    background-image: url(../images/pic3.jpeg);
     opacity: 0.5;
 }
 
@@ -160,7 +160,7 @@ h3 {
 .pastel-image {
     height: 100%;
     width: 100%;
-    background-image: url(/assets/images/pic1.jpeg);
+    background-image: url(../images/pic4.jpeg);
     opacity: 0.5;
 }
 
@@ -171,7 +171,7 @@ h3 {
 .run-image {
     height: 100%;
     width: 100%;
-    background-image: url(/assets/images/pic5.jpeg);
+    background-image: url(../images/pic5.jpeg);
     opacity: 0.5;
 }
 
