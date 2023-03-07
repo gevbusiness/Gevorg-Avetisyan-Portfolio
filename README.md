@@ -22,7 +22,7 @@ Created a portfolio for potential clients to introduce my capabalities and past 
 
 ## Screenshot
 
-![Gevorg Avetisyan Portfolio Webpage](/assets/images/gevorg-avetisyan.png)
+![Gevorg Avetisyan Portfolio Webpage](assets/images/project-shot.png)
 
 ## Link
 
