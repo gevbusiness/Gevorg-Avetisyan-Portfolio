@@ -6,14 +6,14 @@
 
 /* BODY STYLE */
 body {
-    background-image: linear-gradient(rgb(59, 11, 11), rgb(57, 57, 57));
+    background-image: linear-gradient(rgb(45, 43, 110), rgb(182, 175, 175));
 }
 
 /* HEADER STYLES  */
 header h1 {
     display: inline-block;
     background-color: black;
-    color: white;
+    color: rgb(63, 74, 129);
     margin: 20px 0 0;
     padding: 20px 10px 10px 60px;
     font-size: 60px;
@@ -39,7 +39,7 @@ a {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 40px;
     font-weight: 700;
-    color: rgb(252, 218, 218);
+    color: rgb(5, 5, 5);
     text-align: right;
     padding-top: 10px;
     margin-right: 10px;
@@ -52,9 +52,9 @@ a {
 
 /* HEADER IMAGE */
 .me {
-    height:300px;
+    height: 300px;
     width: 100%;
-    background-image: url(/assets/images/black-code1.jpeg);
+    background-image: url(/assets/images/pic00.avif);
 }
 
 h2 {
@@ -127,7 +127,7 @@ h3 {
 .horiseon-image {
     height: 100%;
     width: 100%;
-    background-image: url("/assets/images/red-code.webp");
+    background-image: url(/assets/images/pic2.jpeg);
     opacity: 0.5;
 }
 
@@ -138,7 +138,7 @@ h3 {
 .led-image {
     height: 100%;
     width: 100%;
-    background-image: url("/assets/images/orange-code.jpeg");
+    background-image: url(/assets/images/pic3.jpeg);
     opacity: 0.5;
 }
 
@@ -149,7 +149,7 @@ h3 {
 .calc-image {
     height: 100%;
     width: 100%;
-    background-image: url(/assets/images/purple-code.webp);
+    background-image: url(/assets/images/pic4.jpeg);
     opacity: 0.5;
 }
 
@@ -160,7 +160,7 @@ h3 {
 .pastel-image {
     height: 100%;
     width: 100%;
-    background-image: url("/assets/images/blue-code.jpeg");
+    background-image: url(/assets/images/pic1.jpeg);
     opacity: 0.5;
 }
 
@@ -171,7 +171,7 @@ h3 {
 .run-image {
     height: 100%;
     width: 100%;
-    background-image: url("/assets/images/green\ -code.jpeg");
+    background-image: url(/assets/images/pic5.jpeg);
     opacity: 0.5;
 }
 
