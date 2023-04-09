@@ -93,7 +93,7 @@ section div {
 }
 
 #horiseon,
-#led,
+#spin-the-globe,
 #calc,
 #pastel,
 #run {
@@ -116,7 +116,7 @@ h3 {
     height: 300px;
 }
 
-#led,
+#spin-the-globe,
 #calc,
 #pastel,
 #run {
@@ -135,14 +135,14 @@ h3 {
     opacity: 1.0;
 }
 
-.led-image {
+.spin-the-globe-image {
     height: 100%;
     width: 100%;
     background-image: url(../images/pic2.jpeg);
     opacity: 0.5;
 }
 
-.led-image:hover {
+.spin-the-globe-image:hover {
     opacity: 1.0;
 }
 
